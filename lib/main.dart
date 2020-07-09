@@ -3,6 +3,7 @@ import 'package:firebase_flutter_start/model/board.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_database/firebase_database.dart';
 
+// when you want to test this check firebase rule to true
 void main() {
   runApp(MyApp());
 }
